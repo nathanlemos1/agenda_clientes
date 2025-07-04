@@ -60,7 +60,8 @@ Crie uma pasta (ex: `gerenciador_clientes`) e adicione os arquivos: `Gui.py`, `B
 No terminal, digite:
 
 ```bash
-python --version```
+python --version
+```
 
 ---
 
