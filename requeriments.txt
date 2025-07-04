@@ -1,0 +1,5 @@
+# Ambiente mínimo necessário
+# Tudo é parte da biblioteca padrão do Python
+
+# Python version
+python>=3.6
