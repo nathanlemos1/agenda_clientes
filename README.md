@@ -47,7 +47,6 @@ Você precisa ter instalado:
   [Clique aqui para baixar](https://www.python.org/downloads/)
 - ✅ **Tkinter** (já incluído com o Python)
 - ✅ **SQLite** (já incluído no Python via `sqlite3`)
-- ⚙️ **PyInstaller** (opcional, para criar um executável)
 
 ---
 
